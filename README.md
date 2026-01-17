@@ -1,2 +1,2 @@
 # windowsapp.github.io
-WindowsApp is a very good system software.The WindowsApp official version was jointly created by "windowsamn" and "hulu-001".Note:please put it in Deskop
+WindowsApp is a very good system software.The WindowsApp official version was jointly created by "windowsamn" and "hulu-001".
